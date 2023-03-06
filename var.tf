@@ -13,7 +13,7 @@ variable "ami" {
     default = "ami-0c9978668f8d55984"
     description = "AMI t2.micro"
     type = string
-  
+   
 }
 
 variable "instance_type" {

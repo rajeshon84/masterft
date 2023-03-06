@@ -91,4 +91,4 @@ resource "aws_security_group" "Office-sg" {
 # tags = {
 #     Name = "terrafrom_ec2"
 #     }
-# }
+# } 

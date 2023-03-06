@@ -4,4 +4,4 @@ output "vpc_name1" {
 
 output "public_subnet1" {
     value = aws_subnet.public_subnet.id
-}
+} 
